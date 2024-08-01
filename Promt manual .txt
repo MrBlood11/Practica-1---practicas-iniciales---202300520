@@ -1,0 +1,3 @@
+Inteligencia artificial seleccionada: Chat GPT
+
+Quiero que simules ser un diseñador de manuales profesional y crees para mi un manual de los pasos a seguir en el mantenimiento de una computadora dell inspirion 3646 celeron, quiero que lo hagas por partes ordenadas, empezando por una introducción a lo que es una computadora, el desgloze de los componentes principales y para que sirve cada uno de ellos. Después de eso procede a explicar paso a paso las instrucciones que se deben llevar a cabo , junto con los pasos señala recomendaciones para el paso a seguir. Y por ultimo quiero que sigas alguna guía de como se debe realizar un manual de instrucciones para que quede profesional.
